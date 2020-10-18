@@ -1,0 +1,7 @@
+org: cristfe
+app: backendchallenge
+component: express
+name: express-starter
+
+inputs:
+  src: ./
